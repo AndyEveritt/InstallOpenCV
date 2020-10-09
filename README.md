@@ -1,4 +1,4 @@
-# InstallOpenCV
+# PiInstallOpenCV
 For Installing OpenCV on Raspberry Pi
 
 ## Installing and Running
