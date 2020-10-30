@@ -1,7 +1,7 @@
-# PiInstallOpenCV
-For Installing OpenCV on Raspberry Pi
+# RPi-Install-Tools
+For installing software tools on Raspberry Pi
 
-## Installing and Running
+## OpenCV
 
 ```bash
 wget https://raw.githubusercontent.com/AndyEveritt/PiInstallOpenCV/main/install_opencv.sh
