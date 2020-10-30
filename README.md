@@ -34,7 +34,7 @@ VENV_PATH="env"            |    Python Virtual environment path
 
 ```bash
 wget https://raw.githubusercontent.com/AndyEveritt/RPi-Install-Tools/main/install_pyqt.sh
-chmod 744 install_opencv.sh
+chmod 744 install_pyqt.sh
 
-./install_opencv.sh
+./install_pyqt.sh
 ```
